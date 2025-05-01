@@ -22,23 +22,23 @@ This repository contains clean C++ solutions for all 19 problems in the [CSES In
 | #  | Problem Title               | Solution Link                     |
 |----|-----------------------------|------------------------------------|
 | 01 | Weird Algorithm             | [weird_algorithm.cpp](./Weird_Algorithm.cpp) |
-| 02 | Missing Number              | [missing_number.cpp](./missing_number.cpp) |
-| 03 | Repetitions                 | [repetitions.cpp](./repetitions.cpp) |
-| 04 | Increasing Array            | [increasing_array.cpp](./increasing_array.cpp) |
-| 05 | Permutations                | [permutations.cpp](./permutations.cpp) |
-| 06 | Number Spiral               | [number_spiral.cpp](./number_spiral.cpp) |
-| 07 | Two Knights                 | [two_knights.cpp](./two_knights.cpp) |
-| 08 | Two Sets                    | [two_sets.cpp](./two_sets.cpp) |
-| 09 | Bit Strings                 | [bit_strings.cpp](./bit_strings.cpp) |
-| 10 | Trailing Zeros              | [trailing_zeros.cpp](./trailing_zeros.cpp) |
-| 11 | Coin Piles                  | [coin_piles.cpp](./coin_piles.cpp) |
-| 12 | Palindrome Reorder          | [palindrome_reorder.cpp](./palindrome_reorder.cpp) |
-| 13 | Gray Code                   | [gray_code.cpp](./gray_code.cpp) |
-| 14 | Tower of Hanoi              | [tower_of_hanoi.cpp](./tower_of_hanoi.cpp) |
-| 15 | Creating Strings            | [creating_strings.cpp](./creating_strings.cpp) |
-| 16 | Apple Division              | [apple_division.cpp](./apple_division.cpp) |
-| 17 | Chessboard and Queens       | [chessboard_and_queens.cpp](./chessboard_and_queens.cpp) |
-| 18 | Digit Queries               | [digit_queries.cpp](./digit_queries.cpp) |
-| 19 | Grid Paths                  | [grid_paths.cpp](./grid_paths.cpp) |
+| 02 | Missing Number              | [missing_number.cpp](./Missing_Number.cpp) |
+| 03 | Repetitions                 | [repetitions.cpp](./Repetitions.cpp) |
+| 04 | Increasing Array            | [increasing_array.cpp](./Increasing_Array.cpp) |
+| 05 | Permutations                | [permutations.cpp](./Permutations.cpp) |
+| 06 | Number Spiral               | [number_spiral.cpp](./Number_Spiral.cpp) |
+| 07 | Two Knights                 | [two_knights.cpp](./Two_Knights.cpp) |
+| 08 | Two Sets                    | [two_sets.cpp](./Two_Sets.cpp) |
+| 09 | Bit Strings                 | [bit_strings.cpp](./Bit_Strings.cpp) |
+| 10 | Trailing Zeros              | [trailing_zeros.cpp](./Trailing_Zeros.cpp) |
+| 11 | Coin Piles                  | [coin_piles.cpp](./Coin_Piles.cpp) |
+| 12 | Palindrome Reorder          | [palindrome_reorder.cpp](./Palindrome_Reorder.cpp) |
+| 13 | Gray Code                   | [gray_code.cpp](./Gray_Code.cpp) |
+| 14 | Tower of Hanoi              | [tower_of_hanoi.cpp](./Tower_of_Hanoi.cpp) |
+| 15 | Creating Strings            | [creating_strings.cpp](./Creating_Strings.cpp) |
+| 16 | Apple Division              | [apple_division.cpp](./Apple_Division.cpp) |
+| 17 | Chessboard and Queens       | [chessboard_and_queens.cpp](./Chessboard_and_Queens.cpp) |
+| 18 | Digit Queries               | [digit_queries.cpp](./Digit_Queries.cpp) |
+| 19 | Grid Paths                  | [grid_paths.cpp](./Grid_Paths.cpp) |
 
 ---
