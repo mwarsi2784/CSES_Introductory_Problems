@@ -21,7 +21,7 @@ This repository contains clean C++ solutions for all 19 problems in the [CSES In
 
 | #  | Problem Title               | Solution Link                     |
 |----|-----------------------------|------------------------------------|
-| 01 | Weird Algorithm             | [weird_algorithm.cpp](./weird_algorithm.cpp) |
+| 01 | Weird Algorithm             | [weird_algorithm.cpp](./Weird_Algorithm.cpp) |
 | 02 | Missing Number              | [missing_number.cpp](./missing_number.cpp) |
 | 03 | Repetitions                 | [repetitions.cpp](./repetitions.cpp) |
 | 04 | Increasing Array            | [increasing_array.cpp](./increasing_array.cpp) |
