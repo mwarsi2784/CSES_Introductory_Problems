@@ -9,7 +9,7 @@ This repository contains clean C++ solutions for all 19 problems in the [CSES In
 
 ## About This Repository
 
-- Language: **C++21**
+- Language: **C++20**
 - Style: Clean, readable, and beginner-friendly.
 - Includes:
   - Optimized logic
